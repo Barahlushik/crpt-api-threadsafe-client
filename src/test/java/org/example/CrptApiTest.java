@@ -15,7 +15,6 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 import static com.github.tomakehurst.wiremock.client.WireMock.*;
-import static junit.framework.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
 
 
